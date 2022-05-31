@@ -1,5 +1,5 @@
 # Final-Project
-Final Project of Data Science Diploma(CDSP)-Flight-Price-Predict-Deployment-Heroku
+Flight-Price-Predict-Deployment-Heroku
 
 An innovative AI-tool to predict Flight Price
 
